@@ -17,7 +17,7 @@ Embark on a journey through data exploration and cleansing, where insights emerg
 
 ## Requirements
 
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Matplotlib
